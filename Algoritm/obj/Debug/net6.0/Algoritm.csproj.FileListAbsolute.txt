@@ -1,0 +1,15 @@
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\bin\Debug\net6.0\Algoritm.exe
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\bin\Debug\net6.0\Algoritm.deps.json
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\bin\Debug\net6.0\Algoritm.runtimeconfig.json
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\bin\Debug\net6.0\Algoritm.dll
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\bin\Debug\net6.0\Algoritm.pdb
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\Algoritm.csproj.AssemblyReference.cache
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\Algoritm.AssemblyInfoInputs.cache
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\Algoritm.AssemblyInfo.cs
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\Algoritm.dll
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\refint\Algoritm.dll
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\Algoritm.pdb
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\Algoritm.genruntimeconfig.cache
+C:\Users\ARSIKPC\Desktop\GeekBrains\Итоговая работа\Algoritm\obj\Debug\net6.0\ref\Algoritm.dll
